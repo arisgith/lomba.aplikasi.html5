@@ -1,17 +1,7 @@
-Halo
-=====
+<h1>Halo</h1>
+<img src="https://avatars3.githubusercontent.com/u/3972804?v=3&s=460" width="150px">
+<p>Perkenalkan, Saya Aris. Mahasiswa tugas akhir, akhir sekali tahun ini(2015) Universitas Trunojoyo Madura.</p>
+<h1>Mengapa Ikut lomba?</h1>
+yang jelas lomba itu berhadiah, kalo menang. :D
 
-| Soleh Solihun |
-|--- |
-|![Soleh](http://upload.wikimedia.org/wikipedia/id/6/66/Soleh_Solihun_SUC.jpeg) |
-
-Halo semua, perkenalkan nama saya [Soleh Solihun](http://www.solehsolihun.com/). Saat ini tinggal di Jakarta, Indonesia. Sepertinya saya lebih dikenal sebagai *stand up comedian* oleh banyak orang. Padahal, sebelumnya selama lebih dari tujuh tahun saya jadi jurnalis yang punya kerja sampingan sebagai MC.
-
-Kenapa Ikut Lomba Ini?
-======================
-Mengisi waktu luang
-
-Motto
-=====
-Sesungguhnya mencari ridho Allah itu lebih susah dibandingkan mencari Ridho Rhoma atau Ridho Slank.
-
+Ya sudah lah. jalanin saja<= kayaknya jadi motto :D
